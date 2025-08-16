@@ -43,7 +43,7 @@ const HeroSection = () => {
               Sandesh Paudel
             </h1>
             <p className="text-xl md:text-2xl text-primary font-semibold">
-              Full Stack Developer • Data Analytics • ERP Solutions 
+              Full Stack Developer  • ERP Solutions • Data Analytics Learner
             </p>
           </div>
 
